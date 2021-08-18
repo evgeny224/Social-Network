@@ -1,0 +1,11 @@
+.title{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+.list{
+    display: flex;
+    color: white;
+}
