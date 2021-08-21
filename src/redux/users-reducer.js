@@ -88,7 +88,7 @@ export const toggleFollowingProgress = (isFetching, userId) => ({ type: TOGGLE_I
 
 //Это thunk-функция
 
-export const getUsers = (currentPage, pageSize) => { 
+export const requestUsers = (currentPage, pageSize) => { 
     
     return (dispatch) => {
 
